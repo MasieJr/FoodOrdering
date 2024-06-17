@@ -1,7 +1,7 @@
-import products from "../../../assets/data/products"
+import products from "@assets/data/products"
 
-import ProductListItem from '@/src/components/productListItem';
-import { View} from '@/src/components/Themed';
+import ProductListItem from '@components/productListItem';
+import { View} from '@/components/Themed';
 
 export default function MEnuScreen() {
   return (
